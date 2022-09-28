@@ -1,0 +1,15 @@
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\bin\MCD\Debug\net6.0\dz9z1.exe
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\bin\MCD\Debug\net6.0\dz9z1.deps.json
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\bin\MCD\Debug\net6.0\dz9z1.runtimeconfig.json
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\bin\MCD\Debug\net6.0\dz9z1.dll
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\bin\MCD\Debug\net6.0\dz9z1.pdb
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.csproj.AssemblyReference.cache
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.AssemblyInfoInputs.cache
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.AssemblyInfo.cs
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.csproj.CoreCompileInputs.cache
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.dll
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\refint\dz9z1.dll
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.pdb
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\dz9z1.genruntimeconfig.cache
+C:\Users\user 1\Desktop\projects\repo9\exa\dz9z1\obj\MCD\Debug\net6.0\ref\dz9z1.dll
